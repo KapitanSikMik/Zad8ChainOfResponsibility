@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Zadanie 8 - Chain of Responsibility\Zadanie 8 - Chain of Responsibility\bin\Debug\net8.0\Zadanie 8 - Chain of Responsibility.exe
+C:\Users\Student\source\repos\Zadanie 8 - Chain of Responsibility\Zadanie 8 - Chain of Responsibility\bin\Debug\net8.0\Zadanie 8 - Chain of Responsibility.deps.json
+C:\Users\Student\source\repos\Zadanie 8 - Chain of Responsibility\Zadanie 8 - Chain of Responsibility\bin\Debug\net8.0\Zadanie 8 - Chain of Responsibility.runtimeconfig.json
+C:\Users\Student\source\repos\Zadanie 8 - Chain of Responsibility\Zadanie 8 - Chain of Responsibility\bin\Debug\net8.0\Zadanie 8 - Chain of Responsibility.dll
+C:\Users\Student\source\repos\Zadanie 8 - Chain of Responsibility\Zadanie 8 - Chain of Responsibility\bin\Debug\net8.0\Zadanie 8 - Chain of Responsibility.pdb
+C:\Users\Student\source\repos\Zadanie 8 - Chain of Responsibility\Zadanie 8 - Chain of Responsibility\obj\Debug\net8.0\Zadanie 8 - Chain of Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Zadanie 8 - Chain of Responsibility\Zadanie 8 - Chain of Responsibility\obj\Debug\net8.0\Zadanie 8 - Chain of Responsibility.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Zadanie 8 - Chain of Responsibility\Zadanie 8 - Chain of Responsibility\obj\Debug\net8.0\Zadanie 8 - Chain of Responsibility.AssemblyInfo.cs
+C:\Users\Student\source\repos\Zadanie 8 - Chain of Responsibility\Zadanie 8 - Chain of Responsibility\obj\Debug\net8.0\Zadanie 8 - Chain of Responsibility.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Zadanie 8 - Chain of Responsibility\Zadanie 8 - Chain of Responsibility\obj\Debug\net8.0\Zadanie 8 - Chain of Responsibility.dll
+C:\Users\Student\source\repos\Zadanie 8 - Chain of Responsibility\Zadanie 8 - Chain of Responsibility\obj\Debug\net8.0\refint\Zadanie 8 - Chain of Responsibility.dll
+C:\Users\Student\source\repos\Zadanie 8 - Chain of Responsibility\Zadanie 8 - Chain of Responsibility\obj\Debug\net8.0\Zadanie 8 - Chain of Responsibility.pdb
+C:\Users\Student\source\repos\Zadanie 8 - Chain of Responsibility\Zadanie 8 - Chain of Responsibility\obj\Debug\net8.0\Zadanie 8 - Chain of Responsibility.genruntimeconfig.cache
+C:\Users\Student\source\repos\Zadanie 8 - Chain of Responsibility\Zadanie 8 - Chain of Responsibility\obj\Debug\net8.0\ref\Zadanie 8 - Chain of Responsibility.dll
